@@ -1,0 +1,19 @@
+{
+  "name": "gisoo-skills",
+  "owner": {
+    "name": "Gisoo",
+    "email": "dev@netarz.ir"
+  },
+  "metadata": {
+    "description": "Agent skills for Gisoo (gisoo.pro), a prepaid multi-model AI API."
+  },
+  "plugins": [
+    {
+      "name": "gisoo",
+      "source": "./",
+      "description": "Gisoo API skill: chat with other models, generate images, speech, music and video, transcribe audio, embeddings, balance and prices.",
+      "version": "1.0.0",
+      "homepage": "https://gisoo.pro/docs"
+    }
+  ]
+}

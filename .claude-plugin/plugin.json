@@ -1,0 +1,14 @@
+{
+  "name": "gisoo",
+  "version": "1.0.0",
+  "description": "Use Gisoo (gisoo.pro) from Claude Code: one API key for chat with GPT, Claude, Gemini, DeepSeek and others, plus image, speech, transcription, music, video and embeddings.",
+  "author": {
+    "name": "Gisoo",
+    "email": "dev@netarz.ir",
+    "url": "https://gisoo.pro"
+  },
+  "homepage": "https://gisoo.pro/docs",
+  "repository": "https://github.com/netarz/gisoo-skills",
+  "license": "MIT",
+  "keywords": ["gisoo", "ai", "llm", "openai-compatible", "image", "speech", "transcription", "video", "music", "embeddings"]
+}
